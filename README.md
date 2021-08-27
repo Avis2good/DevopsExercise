@@ -1,12 +1,12 @@
 
 # DevOps Engineer
 
-## Submission process
-- Fork this repository to your personal GitHub account. It may be private, if you prefer.
-- Complete your project and push your code back to your forked repo.
-- Send us a link to your public repo or invite [@joeles](https://github.com/joeles) and [@ShawnConn](https://github.com/ShawnConn) as collaborators if it's private.
+## Process
+- Fork this repository to your personal GitHub account. If you prefer, you may create your own private repository instead.
+- Complete your project and push your code to your repository.
+- Send a link to your public repo or invite [@joeles](https://github.com/joeles) and [@ShawnConn](https://github.com/ShawnConn) as collaborators if it is private.
 
-## Project Requirements
+## Requirements
 
 - Build a three-tiered hit counter app in the language(s) of your choice
 - Frontend service 
