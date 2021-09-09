@@ -25,7 +25,7 @@
 - Use your choice of CI/CD solution or other tools to build 
 - Use your choice of Free tier AWS infrastructure to run
 - Use Terraform to manage AWS resources
-- We are more interested in the IoC to build and deploy, not the details of the app
+- We are more interested in the IaC to build and deploy, not the details of the app
 
 ## Interview
 
